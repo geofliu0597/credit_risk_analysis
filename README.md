@@ -7,27 +7,27 @@ Using our new statistical reasoning and machine learning skills, we are to apply
 
 SMOTEENN:  
 
-![d1](smoteenn.png)
+![d1](resources/smoteenn.png)
 
 **SMOTE:**  
 
-![d1](smote.png)
+![d1](resources/smote.png)
 
 **RandomOverSample:**  
 
-![d1](random.png)
+![d1](resources/random.png)
 
 **ClusterCentroids:**  
 
-![d1](cluster.png)
+![d1](resources/cluster.png)
 
 **EasyEnsembleClassifier:**  
 
-![d1](easy.png)
+![d1](resources/easy.png)
 
 **BalancedRandomForestClassifier:**
 
-![d1](balanced.png)
+![d1](resources/balanced.png)
 
 
 
